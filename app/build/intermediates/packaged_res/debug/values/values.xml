@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="greenColor">#4CAF50</color>
+    <color name="redColor">#FFF44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowColor">#FFEB3B</color>
+    <string name="app_name">Color</string>
+    <string name="green">Зеленый</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <style name="Base.Theme.Color" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Color" parent="Base.Theme.Color"/>
+</resources>
